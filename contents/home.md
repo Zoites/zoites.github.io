@@ -2,7 +2,7 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Introducing Smicoast Consulting, a space to get advice to enable you to get ahead, based on our experience from The Gambia to America, Academia to Corporate America
 
 #### Contact
 
