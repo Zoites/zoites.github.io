@@ -24,12 +24,12 @@ We enhance any stage of your writing process from draft to publishing and beyond
 
 #### Training
 We provide training tailored to you and your team to get you up to speed in upskilling. We can assist you with delivering trainings across many domains, including AI, Informatics, Life Sciences, and many more. We have delivered the following trainings and courses:
-    - Introductory and Advanced Bioinformatics training
-    - Unix/Linux training 
-    - AI for Beginners 
-    - Applications of GenAI in Biotech
-    - Introduction to Genetics
-    - Introduction to Genomics
-    - Introduction to Personalized Medicine
-    - Introduction to Biology
+  - Introductory and Advanced Bioinformatics courses
+  - Unix/Linux training
+  - AI for Beginners
+  - Applications of GenAI in Biotech
+  - Introduction to Genetics
+  - Introduction to Genomics
+  - Introduction to Personalized Medicine
+  - Introduction to Biology
 
