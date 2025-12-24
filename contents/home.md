@@ -1,4 +1,8 @@
-At Smicoast Consulting, we provide coaching to help you achieve your career goals. We implement AI and informatics solutions for your organization to optimize your workflows, leading to lower costs and increased revenue generation. We provide training tailored to you and your team to speed up upskilling. We enhance any stage of your writing process. Our services are drawn from our 7+ years of experience working in corporate America for Fortune 500 companies and over 10+ years in academia, including earning a PhD from the world’s top universities.
+At Smicoast Consulting, we provide coaching to help you achieve your career goals with a systematic approach guided by our 7+ years of experience working in corporate America for Fortune 500 companies and over 10+ years in academia, including earning a PhD from the world’s top universities. 
+We also provide the following services:
+  - Implement AI and informatics solutions for your organization to optimize your workflows, leading to lower costs and increased revenue generation.
+  - Deliver training tailored to you and your team to speed up upskilling.
+  - Enhance any stage of your writing process. 
 
 #### Contact
 Email: ousman[dot]mahmud[at]gmail.com
